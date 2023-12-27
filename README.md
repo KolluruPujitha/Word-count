@@ -17,11 +17,9 @@ Finding the given length of the words by using len() fuction.
 ### Step 6: 
 Calling the function and Printing the number of words.
 ## PROGRAM:
-
 #Program to find the word count.
 #Developed by: Kolluru Pujitha
 #RegisterNumber:23002983
-
 num_word=0
 with open ("sample.txt",'r') as f:
 for i in f:
