@@ -26,7 +26,6 @@ for i in f:
 word=i.split()
 num_word+=len(word)
 print("number of words ={}".format(num_word)
-
 ### OUTPUT:
  
 ![image](https://github.com/KolluruPujitha/Word-count/assets/150231340/3625c000-8b68-49e4-ae55-2da0388bcb1e)
